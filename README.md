@@ -1,3 +1,4 @@
+![Retail Sales Exploratory Data Analysis](retail-sales-eda-cover.png)
 # Retail Sales Exploratory Data Analysis
 
 An exploratory data analysis project using **Python and Pandas** to examine retail transaction data, identify sales patterns, explore customer and product performance, and generate business insights.
